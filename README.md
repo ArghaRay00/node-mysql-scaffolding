@@ -1,3 +1,3 @@
-# hexagon-app
+# product-app
 
-Hexagon back-end (Node & MongoDB)
+Product back-end (Node & MongoDB)
